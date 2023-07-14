@@ -17,7 +17,19 @@
 - :question: Ask me about anything related to Data Science and Web Technologies 
 - 📫 How to reach me *leelaprasad1607@gmail.com*
 - ⚡ Fun fact: I like to keep my night shift activated 24 x 7
+  
+  
+<div align="center">
+ <h2>🚀 Coding Profilest</h2>
 
+ <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
+<a href="https://www.leetcode.com/spk_0001" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spk_0001" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/cse_581" target="blank"><img align="left" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="Codechef logo" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/suryapro1805/profile" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suryapro1805/profile" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/surya prakash kalyanam" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surya prakash kalyanam" height="30" width="40" /></a>
+ <a href="https://www.codingninjas.com/studio/profile/surya_01" target="blank"><img align="left" src="https://asset.brandfetch.io/idQVGbrvGL/idFrWdCkB5.png" alt="surya prakash kalyanam" height="30" width="40" /></a>
+<a href="https://kaggle.com/surya prakash kalyanam" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="surya prakash kalyanam" height="30" width="40" /></a>
+</div>
 
 <div align = "right" width="35%">
 <p><strong>Vibing to : 🎧  </strong></p>
