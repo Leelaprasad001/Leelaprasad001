@@ -5,7 +5,7 @@
   <br>
  </abc>
 </h2> 
-![Totals Hits](https://komarev.com/ghpvc/?username=Leelaprasad001&style=flat&color=orange&label=PROFILE+VIEWS)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Leelaprasad001&label=Profile%20views&color=0e75b6&style=flat" alt="suryaprakashkalyanam" /> </p>
 <img align = "right" src="https://raw.githubusercontent.com/Leelaprasad001/Leelaprasad001/main/images/dev-working_rounded.gif" href="https://github.com/Leelaprasad001" alt="CoDiNg RocKs"  width="40%"/><br> 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
