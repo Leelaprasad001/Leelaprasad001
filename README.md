@@ -10,9 +10,13 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer & Data Scientist
+- 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
+- ❤️</> 🧑‍💻 Let's Code for every Problem and Solve it 🧠 🧑‍💻💻
+- 🤔 I’m looking for help with React and MongoDB
 - :rocket: Always ready to collaborate for learning new technologies
 - :question: Ask me about anything related to Data Science and Web Technologies 
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- 📫 How to reach me *suryaprakashk1805@gmail.com*
+- ⚡ Fun fact: I like to keep my night shift activated 24 x 7
 
 
 <div align = "right" width="40%">
