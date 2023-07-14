@@ -5,11 +5,14 @@
   <br>
  </abc>
 </h2> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Leelaprasad001&label=Profile%20views&color=0e75b6&style=flat" alt="leelaprasad1607@gmail.com" /> </p>
-<img align = "right" src="https://raw.githubusercontent.com/Leelaprasad001/Leelaprasad001/main/images/dev-working_rounded.gif" href="https://github.com/Leelaprasad001" alt="CoDiNg RocKs"  width="40%"/><br> 
-<p><strong>Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Leelaprasad001&label=Profile%20views&color=0e75b6&style=flat" alt="leelaprasad1607@gmail.com" /> </p>
+<div align="left">
+ <img align = "right" src="https://raw.githubusercontent.com/Leelaprasad001/Leelaprasad001/main/images/dev-working_rounded.gif" href="https://github.com/Leelaprasad001" alt="CoDiNg RocKs"  width="40%"/><br> 
+ <p><strong>Vibing to : 🎧  </strong></p>
+ 
+ [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+</div>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer & Data Scientist
