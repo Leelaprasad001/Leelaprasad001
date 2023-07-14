@@ -13,7 +13,6 @@
 - :question: Ask me about anything related to Data Science and Web Technologies 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
 
 <div align="right" width="50">
 
@@ -30,3 +29,4 @@
 </div>
 
 <hr></hr>
+<h2 align="left">:heart: Let's get connected:</h2>
