@@ -7,8 +7,15 @@
 </h2> 
 
 <img align = "right" src="https://raw.githubusercontent.com/Leelaprasad001/Leelaprasad001/main/images/dev-working_rounded.gif" href="https://github.com/Leelaprasad001" alt="CoDiNg RocKs"  width="40%"/><br> 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<div align="right" width="40">
+- :computer: I'm a Fullstack Developer & Data Scientist
+- :rocket: Always ready to collaborate for learning new technologies
+- :question: Ask me about anything related to Data Science and Web Technologies 
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
+
+<div align = "right" width="40%">
 <p><strong>Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
@@ -19,9 +26,3 @@
 [![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :computer: I'm a Fullstack Developer & Data Scientist
-- :rocket: Always ready to collaborate for learning new technologies
-- :question: Ask me about anything related to Data Science and Web Technologies 
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
