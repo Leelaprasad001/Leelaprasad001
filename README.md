@@ -12,8 +12,9 @@
    <img align = "right" src="https://raw.githubusercontent.com/Leelaprasad001/Leelaprasad001/main/images/dev-working_rounded.gif" href="https://github.com/Leelaprasad001" alt="CoDiNg RocKs"  width="40%"/><br> 
    <p><strong>Vibing to : 🎧  </strong></p>
    
-   [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+   <p align="right">[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br></p>
 </div>
+
 <div align = "left">
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
