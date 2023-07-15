@@ -8,12 +8,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Leelaprasad001&label=Profile%20views&color=0e75b6&style=flat" alt="leelaprasad1607@gmail.com" /> </p>
 
-<div align="right" width ="50%" >
-   
-   <img src="https://raw.githubusercontent.com/Leelaprasad001/Leelaprasad001/main/images/dev-working_rounded.gif" href="https://github.com/Leelaprasad001" alt="CoDiNg RocKs"  width="40%"/><br> 
-   <p><strong>Vibing to : 🎧  </strong></p>
-   [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+<div align="center" width="50">
+
+<img src="https://raw.githubusercontent.com/Leelaprasad001/Leelaprasad001/main/images/dev-working_rounded.gif" href="https://github.com/sLeelaprasad001" alt="CoDiNg RocKs"  width="60%"/><br> 
   
+<br><br> Vibing to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
 </div>
 
 <div align = "left">
