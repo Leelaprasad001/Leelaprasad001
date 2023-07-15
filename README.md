@@ -29,7 +29,7 @@
    - :question: Ask me about anything related to Data Science and Web Technologies 
    - 📫 How to reach me *leelaprasad1607@gmail.com*
    - ⚡ Fun fact: I like to keep my night shift activated 24 x 7
-
+     <br><br>
   <h2 align="left">🚀Coding Profilest </></h2>
    
    <a href="https://leetcode.com/LeelaPrasad001/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spk_0001" height="30" width="40" /></a>
@@ -39,7 +39,8 @@
    
    <a href="https://www.kaggle.com/leelaprasad001" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="surya prakash kalyanam" height="30" width="40" /></a>
    
-</div><br><br>
+</div>
+<br><br>
 
 <div align="left">
 <h2 align="left"> 👨‍🎓🧑‍💻😎 Skill Set</h2>
