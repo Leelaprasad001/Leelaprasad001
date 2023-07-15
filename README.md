@@ -75,7 +75,8 @@
 
 <div align="center" >
 <br>
- <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" />
+ <h2 align="left">📈 GitHub Stats</h2>
+ <img src="https://github-readme-stats.vercel.app/api?username=Leelaprasad001&show_icons=true&count_private=true" align="center" />
 
 <br/>  
   
