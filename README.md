@@ -21,7 +21,7 @@
 <div align = "left">
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
-   - :computer: I'm a Fullstack Developer & Data Scientist
+   - :computer: I'm a Fullstack Developer & Data Scientist.
    - 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
    - ❤️</> 🧑‍💻 Let's Code for every Problem and Solve it 🧠 🧑‍💻💻
    - 🤔 I’m looking for help with React and MongoDB
