@@ -76,8 +76,9 @@
 <div align="center" >
 <br>
  <h2 align="left">📈 GitHub Stats</h2>
- <img src="https://github-readme-stats.vercel.app/api?username=Leelaprasad001&show_icons=true&count_private=true"  /> <br><br>
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Leelaprasad001&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Leelaprasad001&show_icons=true&locale=en&layout=compact" alt="suryaprakashkalyanam" align="left" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Leelaprasad001&show_icons=true&count_private=true"  align="right" /> <br><br>
+ 
 <br/>  
   
 <hr></hr>
