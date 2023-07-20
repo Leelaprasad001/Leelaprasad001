@@ -24,7 +24,7 @@
    - :computer: I'm a Fullstack Developer & Data Scientist.
    - 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
    - ❤️</> 🧑‍💻 Let's Code for every Problem and Solve it 🧠 🧑‍💻💻
-   - 🤔 I’m looking for help with React and MongoDB
+   - 🤔 I’m looking for help with React and MongoDB.
    - :rocket: Always ready to collaborate for learning new technologies
    - :question: Ask me about anything related to Data Science and Web Technologies 
    - 📫 How to reach me *leelaprasad1607@gmail.com*
