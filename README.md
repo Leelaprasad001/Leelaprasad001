@@ -11,10 +11,8 @@
 <div align="center"  width="50">
 
 <img src="https://raw.githubusercontent.com/Leelaprasad001/Leelaprasad001/main/images/dev-working_rounded.gif" href="https://github.com/sLeelaprasad001" alt="CoDiNg RocKs"  width="60%"/><br> 
-  
-<br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
 
 </div>
 
