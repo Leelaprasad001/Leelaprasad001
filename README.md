@@ -30,12 +30,12 @@
      <br><br>
   <h2 align="left">🚀Coding Profilest </></h2>
    
-   <a href="https://leetcode.com/LeelaPrasad001/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spk_0001" height="30" width="40" /></a>
-   <a href="https://www.codechef.com/users/leelaprasad16" target="blank"><img align="left" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="Codechef logo" height="30" width="40" /></a>
-   <a href="https://auth.geeksforgeeks.org/user/leelaprasad1607/practice" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suryapro1805/profile" height="30" width="40" /></a>
-   <a href="https://www.hackerrank.com/leelaprasad1607?hr_r=1" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surya prakash kalyanam" height="30" width="40" /></a>
-   
-   <a href="https://www.kaggle.com/leelaprasad001" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="surya prakash kalyanam" height="30" width="40" /></a>
+   <a href="https://leetcode.com/LeelaPrasad001/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leelaprasad001" height="30" width="40" /></a>
+   <a href="https://www.codechef.com/users/leelaprasad16" target="blank"><img align="left" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="leelaprasad16" height="30" width="40" /></a>
+   <a href="https://auth.geeksforgeeks.org/user/leelaprasad1607/practice" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"  alt="leelaprasad1607" height="30" width="40" /></a>
+   <a href="https://www.hackerrank.com/leelaprasad1607?hr_r=1" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  alt="leelaprasad1607" height="30" width="40" /></a>
+   <a href="https://www.codingninjas.com/studio/profile/848d0285-37a9-40df-b334-a067641afbbe" target="blank"><img align="left" src="https://camo.githubusercontent.com/71a7ed08cff0590d31d0877e55678dff62b80e4f13c2003615ab3cd6d9253d85/68747470733a2f2f636f757273657265706f72742d70726f64756374696f6e2e696d6769782e6e65742f75706c6f6164732f7363686f6f6c2f6c6f676f2f313332332f6f726967696e616c2f436f64696e675f4e696e6a61735f6c6f676f2e6a7065673f773d373226683d3732" alt="leelaprasad" height="30" width="40" /></a>
+   <a href="https://www.kaggle.com/leelaprasad001" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="leelaprasad001" height="30" width="40" /></a>
    
 </div>
 <br><br>
