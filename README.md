@@ -2,7 +2,7 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Leela Prasad Bantu, Full Stack Web Developer & Data Scientist :computer:<br>
-  <br> <a href="https://leelaprasadbantu.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%E4405F.svg?&style=for-the-badge&logo=portfolio&logoColor=white" height="30px"/></a> <br>
+  <br>  <a href="https://leelaprasadbantu.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23ff6347.svg?&style=for-the-badge&logo=portfolio&logoColor=white" height="30px"/></a>  <br>
   <br>
  </abc>
 </h2> 
