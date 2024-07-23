@@ -76,9 +76,15 @@
 <div align="center" >
 <br>
  <h2 align="left">📈 GitHub Stats</h2>
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Leelaprasad001&show_icons=true&locale=en&layout=compact" /><br><br>
- <img  src="https://github-readme-stats.vercel.app/api?username=Leelaprasad001&show_icons=true&count_private=true"/> <br>
- 
+ <div align=center>
+  <img src="https://streak-stats.demolab.com/?user=Leelaprasad001&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leelaprasad001&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leelaprasad001&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+ <!--<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Leelaprasad001&show_icons=true&locale=en&layout=compact" /><br><br>
+ <img  src="https://github-readme-stats.vercel.app/api?username=Leelaprasad001&show_icons=true&count_private=true"/> <br>-->
+
 <br/>  
   
 <hr></hr>
