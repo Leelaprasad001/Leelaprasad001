@@ -22,12 +22,11 @@
    
    - 💻 I'm a Fullstack Developer & Data Scientist.
    - 🎓 I graduated with a B.Tech in CSE from GMRIT.
-   - ❤️ Let's <> Code </> for every Problem and Solve it 🧠 🧑‍💻💻
-   - 🚀 Always ready to collaborate for learning new technologies
-   - ❓ Ask me about anything related to Data Science and Web Technologies 
-   - 📫 How to reach me *leelaprasad1607@gmail.com*
-   - ⚡ Fun fact:  I sometimes dream in code and wake up with solutions to problems I’ve been working on.
-     <br><br>
+   - 🧠 Let's <> Code </> for every problem and solve it.
+   - 🚀 AAlways ready to collaborate to learn new technologies.
+   - 📫 You can reach me at leelaprasad1607@gmail.com.
+   <!--- ⚡ Fun fact:  I sometimes dream in code and wake up with solutions to problems I’ve been working on.-->
+ <br><br>
  <h2 align="left">🚀Coding Profilest </></h2>
  <p>
   <a href="https://leetcode.com/LeelaPrasad001/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leelaprasad001"/></a>
