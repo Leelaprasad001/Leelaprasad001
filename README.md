@@ -2,7 +2,7 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Leela Prasad Bantu, Full Stack Web Developer & Data Scientist :computer:<br>
-  <br>  <a href="https://leelaprasadbantu.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23ff6347.svg?&style=for-the-badge&logo=portfolio&logoColor=white" height="30px"/></a>  <br>
+  <br>  <a href="https://leelaprasadbantu.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23ff6347.svg?&style=for-the-badge&logo=About.me&logoColor=white" height="30px"/></a>  <br>
   <br>
  </abc>
 </h2> 
@@ -28,14 +28,14 @@
    - 📫 How to reach me *leelaprasad1607@gmail.com*
    - ⚡ Fun fact:  I sometimes dream in code and wake up with solutions to problems I’ve been working on.
      <br><br>
-  <h2 align="left">🚀Coding Profilest </></h2>
-   
-   <a href="https://leetcode.com/LeelaPrasad001/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leelaprasad001" height="30" width="40" /></a>
-   <a href="https://auth.geeksforgeeks.org/user/leelaprasad1607/practice" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"  alt="leelaprasad1607" height="30" width="40" /></a>
-   <a href="https://www.codechef.com/users/leelaprasad16" target="blank"><img align="left" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="leelaprasad16" height="30" width="40" /></a>
-   <a href="https://www.hackerrank.com/leelaprasad1607?hr_r=1" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  alt="leelaprasad1607" height="30" width="40" /></a>
-   <a href="https://www.codingninjas.com/studio/profile/848d0285-37a9-40df-b334-a067641afbbe" target="blank"></a>
-   <a href="https://www.kaggle.com/leelaprasad001" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="leelaprasad001" height="30" width="40" /></a>
+ <h2 align="left">🚀Coding Profilest </></h2>
+ <p>
+  <a href="https://leetcode.com/LeelaPrasad001/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leelaprasad001"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/leelaprasad1607/practice" target="blank"><img align="left" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"  alt="leelaprasad1607"/></a>
+  <a href="https://www.codechef.com/users/leelaprasad16" target="blank"><img align="left" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="leelaprasad16"/></a>
+  <a href="https://www.hackerrank.com/leelaprasad1607?hr_r=1" target="blank"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt="leelaprasad1607"/></a>
+   <a href="https://www.kaggle.com/leelaprasad001" target="blank"><img align="left" src="https://img.shields.io/badge/Kaggle-3793EF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="leelaprasad001"/></a>
+</p>
    
 </div>
 <br><br>
@@ -65,7 +65,7 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <p>
- <a href="https://leelaprasadbantu.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23ff6347.svg?&style=for-the-badge&logo=portfolio&logoColor=white" height="30px"/></a> 
+ <a href="https://leelaprasadbantu.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23ff6347.svg?&style=for-the-badge&logo=About.me&logoColor=white" height="30px"/></a> 
  <a href="https://www.linkedin.com/in/leela-prasad-bantu-73362824a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
  <a href="https://github.com/Leelaprasad001" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
   <a href="https://www.instagram.com/leelaprasad_bantu/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
