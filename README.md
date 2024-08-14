@@ -82,7 +82,7 @@
  <img  src="https://github-readme-stats.vercel.app/api?username=Leelaprasad001&show_icons=true&count_private=true"/> <br>-->
 
 <br/>  
-  
+ <!--
 <hr></hr>
 
 **Code Cycle**<br>
@@ -93,6 +93,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-
+-->
 
 </div>
