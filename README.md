@@ -26,7 +26,7 @@
    - 🚀 AAlways ready to collaborate to learn new technologies.
    - 📫 You can reach me at leelaprasad1607@gmail.com.
    <!--- ⚡ Fun fact:  I sometimes dream in code and wake up with solutions to problems I’ve been working on.-->
- <br><br>
+   <br>
  <h2 align="left">🚀Coding Profilest </></h2>
  <p>
   <a href="https://leetcode.com/LeelaPrasad001/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leelaprasad001"/></a>
@@ -37,11 +37,9 @@
 </p>
    
 </div>
-<br><br>
-
+ <br> <br>
 <div align="left">
- <br>
-<h2 align="left"> 👨‍🎓🧑‍💻 Skill Set</h2>
+<h2 align="left"> 🧑‍💻 Skill Set</h2>
  
 **Programming Languages and Web Technologies**
 
@@ -71,9 +69,8 @@
  <a href="https://github.com/Leelaprasad001" target="_blank"><img align="left" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px" /></a>
 </p>
 
-
+<br><br>
 <div align="center" >
-<br>
  <h2 align="left">📈 GitHub Stats</h2>
  <div align=center>
   <img src="https://streak-stats.demolab.com/?user=Leelaprasad001&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
