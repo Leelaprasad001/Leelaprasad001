@@ -34,6 +34,7 @@
   <a href="https://www.codechef.com/users/leelaprasad16" target="blank"><img align="left" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="leelaprasad16"/></a>
   <a href="https://www.hackerrank.com/leelaprasad1607?hr_r=1" target="blank"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt="leelaprasad1607"/></a>
    <a href="https://www.kaggle.com/leelaprasad001" target="blank"><img align="left" src="https://img.shields.io/badge/Kaggle-3793EF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="leelaprasad001"/></a>
+   <a href="https://stackoverflow.com/users/22236755/leela-prasad-bantu" target="blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
    
 </div>
@@ -65,7 +66,8 @@
  <a href="https://leelaprasadbantu.vercel.app/" target="_blank"><img align="left" alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23ff6347.svg?&style=for-the-badge&logo=About.me&logoColor=white"/></a> 
  <a href="https://www.linkedin.com/in/leela-prasad-bantu-73362824a/" target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://www.instagram.com/leelaprasad_bantu/" target="_blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
- <a href="https://twitter.com/LeelaPrasad01?t=V_KgOynxcuguFrDOWHrL4Q&s=08" target="_blank"><img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>    
+ <a href="https://www.threads.net/@leelaprasad_bantu" target="_blank"><img align="left" alt="Threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" /></a>    
+ <a href="https://twitter.com/LeelaPrasad01?t=V_KgOynxcuguFrDOWHrL4Q&s=08" target="_blank"><img align="left" alt="Twitter" src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>    
  <a href="https://github.com/Leelaprasad001" target="_blank"><img align="left" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px" /></a>
 </p>
 
