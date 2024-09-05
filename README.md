@@ -33,8 +33,9 @@
   <a href="https://auth.geeksforgeeks.org/user/leelaprasad1607/practice" target="blank"><img align="left" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"  alt="leelaprasad1607"/></a>
   <a href="https://www.codechef.com/users/leelaprasad16" target="blank"><img align="left" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="leelaprasad16"/></a>
   <a href="https://www.hackerrank.com/leelaprasad1607?hr_r=1" target="blank"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt="leelaprasad1607"/></a>
+  <a href="https://stackoverflow.com/users/22236755/leela-prasad-bantu" target="blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
    <a href="https://www.kaggle.com/leelaprasad001" target="blank"><img align="left" src="https://img.shields.io/badge/Kaggle-3793EF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="leelaprasad001"/></a>
-   <a href="https://stackoverflow.com/users/22236755/leela-prasad-bantu" target="blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+   
 </p>
    
 </div>
