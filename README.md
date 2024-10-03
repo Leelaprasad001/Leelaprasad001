@@ -27,7 +27,7 @@
    - 📫 You can reach me at leelaprasad1607@gmail.com.
    <!--- ⚡ Fun fact:  I sometimes dream in code and wake up with solutions to problems I’ve been working on.-->
    <br>
- <h2 align="left">🚀Coding Profilest </></h2>
+ <h2 align="left">🚀Coding Profiles </></h2>
  <p>
   <a href="https://leetcode.com/LeelaPrasad001/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leelaprasad001"/></a>
   <a href="https://auth.geeksforgeeks.org/user/leelaprasad1607/practice" target="blank"><img align="left" src="https://img.shields.io/badge/GFG-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"  alt="leelaprasad1607"/></a>
